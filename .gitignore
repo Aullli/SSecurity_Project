@@ -1,0 +1,19 @@
+# Pentest artefacts & sensitive
+*.pcap
+*.pcapng
+*.key
+*.pem
+*.env
+secrets*
+*.db
+*.sqlite3
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# VM exports
+*.vdi
+*.ova
